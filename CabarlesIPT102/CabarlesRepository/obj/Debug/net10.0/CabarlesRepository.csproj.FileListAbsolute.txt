@@ -1,0 +1,12 @@
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\bin\Debug\net10.0\CabarlesRepository.deps.json
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\bin\Debug\net10.0\CabarlesRepository.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\bin\Debug\net10.0\CabarlesRepository.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.csproj.AssemblyReference.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.AssemblyInfoInputs.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.AssemblyInfo.cs
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\refint\CabarlesRepository.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\CabarlesRepository.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesRepository\obj\Debug\net10.0\ref\CabarlesRepository.dll

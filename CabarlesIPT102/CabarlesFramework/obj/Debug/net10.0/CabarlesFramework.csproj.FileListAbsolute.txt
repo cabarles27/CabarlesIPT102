@@ -1,0 +1,15 @@
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.csproj.AssemblyReference.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.AssemblyInfoInputs.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.AssemblyInfo.cs
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\bin\Debug\net10.0\CabarlesFramework.deps.json
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\bin\Debug\net10.0\CabarlesFramework.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\bin\Debug\net10.0\CabarlesFramework.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\bin\Debug\net10.0\CabarlesRepository.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\bin\Debug\net10.0\CabarlesRepository.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\Cabarles.02D77FA5.Up2Date
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\refint\CabarlesFramework.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\CabarlesFramework.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesFramework\obj\Debug\net10.0\ref\CabarlesFramework.dll

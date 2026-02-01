@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="CabarlesBlazor/CabarlesBlazor.csproj" Id="44dc1e84-7868-48d2-bdfb-b6e51d14e691" />
+  <Project Path="CabarlesDomain/CabarlesDomain.csproj" Id="02fb7de2-cbf4-4b07-8894-809d4e37f571" />
+  <Project Path="CabarlesMaui/CabarlesMaui.csproj" Id="2efc7c2e-e277-427e-93a9-76566b1aa2a5" />
+  <Project Path="CabarlesRepository/CabarlesRepository.csproj" Id="ad6a9d1b-be4e-4040-bd07-fec320fd1dfb" />
+  <Project Path="CabarlesWpf/CabarlesWpf.csproj" Id="4c767eac-eb12-4963-a192-954eecb3d24e" />
+  <Project Path="D:/MiranteIPT102/CabarlesIPT102/CabarlesDatabase/CabarlesDatabase.sqlproj" Id="45e7495a-e51c-4051-ab0f-625300486f25">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="D:/MiranteIPT102/CabarlesIPT102/CabarlesFramework/CabarlesFramework.csproj" />
+</Solution>

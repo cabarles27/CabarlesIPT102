@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE [dbo].[DeletePOS]
+
+@POSId INT
+AS
+BEGIN
+    DELETE FROM [dbo].[POS]
+    WHERE Id = @POSId;
+END

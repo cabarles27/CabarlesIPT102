@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MiranteIPT102\\CabarlesIPT102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A9D1B-BE4E-4040-BD07-FEC320FD1DFB}|CabarlesRepository\\CabarlesRepository.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesrepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A9D1B-BE4E-4040-BD07-FEC320FD1DFB}|CabarlesRepository\\CabarlesRepository.csproj|solutionrelative:cabarlesrepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A9D1B-BE4E-4040-BD07-FEC320FD1DFB}|CabarlesRepository\\CabarlesRepository.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesrepository\\cabarlesrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD6A9D1B-BE4E-4040-BD07-FEC320FD1DFB}|CabarlesRepository\\CabarlesRepository.csproj|solutionrelative:cabarlesrepository\\cabarlesrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesdomain\\cabarlesdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|solutionrelative:cabarlesdomain\\cabarlesdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E7495A-E51C-4051-AB0F-625300486F25}|CabarlesDatabase\\CabarlesDatabase.sqlproj|D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDatabase\\StoredProcedure\\CreatePOS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{45E7495A-E51C-4051-AB0F-625300486F25}|CabarlesDatabase\\CabarlesDatabase.sqlproj|solutionrelative:CabarlesDatabase\\StoredProcedure\\CreatePOS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesdomain\\commands\\icreatepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|solutionrelative:cabarlesdomain\\commands\\icreatepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesdomain\\models\\posmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|solutionrelative:cabarlesdomain\\models\\posmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesdomain\\commands\\iupdatepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|solutionrelative:cabarlesdomain\\commands\\iupdatepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesdomain\\commands\\ideletepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FB7DE2-CBF4-4B07-8894-809D4E37F571}|CabarlesDomain\\CabarlesDomain.csproj|solutionrelative:cabarlesdomain\\commands\\ideletepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5977169-09C1-D1D8-5F77-5356036798C1}|CabarlesFramework\\CabarlesFramework.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesframework\\comands\\createpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5977169-09C1-D1D8-5F77-5356036798C1}|CabarlesFramework\\CabarlesFramework.csproj|solutionrelative:cabarlesframework\\comands\\createpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5977169-09C1-D1D8-5F77-5356036798C1}|CabarlesFramework\\CabarlesFramework.csproj|d:\\miranteipt102\\cabarlesipt102\\cabarlesframework\\cabarlesframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5977169-09C1-D1D8-5F77-5356036798C1}|CabarlesFramework\\CabarlesFramework.csproj|solutionrelative:cabarlesframework\\cabarlesframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CabarlesFramework\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CabarlesDomain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E7495A-E51C-4051-AB0F-625300486F25}|CabarlesDatabase\\CabarlesDatabase.sqlproj|D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDatabase\\StoredProcedure\\CreatePOS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{45E7495A-E51C-4051-AB0F-625300486F25}|CabarlesDatabase\\CabarlesDatabase.sqlproj|solutionrelative:CabarlesDatabase\\StoredProcedure\\CreatePOS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesRepository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "CabarlesRepository\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesRepository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "CabarlesRepository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:21:48.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CabarlesRepository",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesRepository\\CabarlesRepository.csproj",
+              "RelativeDocumentMoniker": "CabarlesRepository\\CabarlesRepository.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesRepository\\CabarlesRepository.csproj",
+              "RelativeToolTip": "CabarlesRepository\\CabarlesRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T03:21:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePOS.sql ",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDatabase\\StoredProcedure\\CreatePOS.sql",
+              "RelativeDocumentMoniker": "CabarlesDatabase\\StoredProcedure\\CreatePOS.sql",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDatabase\\StoredProcedure\\CreatePOS.sql\r\n(localdb)\\ProjectModels.CabarlesDatabase_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-28T03:19:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "POSModels.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Models\\POSModels.cs",
+              "RelativeDocumentMoniker": "CabarlesDomain\\Models\\POSModels.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Models\\POSModels.cs",
+              "RelativeToolTip": "CabarlesDomain\\Models\\POSModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:24:03.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CabarlesDomain.csproj",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\CabarlesDomain.csproj",
+              "RelativeDocumentMoniker": "CabarlesDomain\\CabarlesDomain.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\CabarlesDomain.csproj",
+              "RelativeToolTip": "CabarlesDomain\\CabarlesDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T00:19:54.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUpdatePOS.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\IUpdatePOS.cs",
+              "RelativeDocumentMoniker": "CabarlesDomain\\Commands\\IUpdatePOS.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\IUpdatePOS.cs",
+              "RelativeToolTip": "CabarlesDomain\\Commands\\IUpdatePOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:21:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDeletePOS.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\IDeletePOS.cs",
+              "RelativeDocumentMoniker": "CabarlesDomain\\Commands\\IDeletePOS.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\IDeletePOS.cs",
+              "RelativeToolTip": "CabarlesDomain\\Commands\\IDeletePOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:20:37.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICreatePOS.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\ICreatePOS.cs",
+              "RelativeDocumentMoniker": "CabarlesDomain\\Commands\\ICreatePOS.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Commands\\ICreatePOS.cs",
+              "RelativeToolTip": "CabarlesDomain\\Commands\\ICreatePOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:19:32.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePOS.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\Comands\\CreatePOS.cs",
+              "RelativeDocumentMoniker": "CabarlesFramework\\Comands\\CreatePOS.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\Comands\\CreatePOS.cs",
+              "RelativeToolTip": "CabarlesFramework\\Comands\\CreatePOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:53:20.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CabarlesFramework.csproj",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\CabarlesFramework.csproj",
+              "RelativeDocumentMoniker": "CabarlesFramework\\CabarlesFramework.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\CabarlesFramework.csproj",
+              "RelativeToolTip": "CabarlesFramework\\CabarlesFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T23:53:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "CabarlesDomain\\Class1.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesDomain\\Class1.cs",
+              "RelativeToolTip": "CabarlesDomain\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:57:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\Class1.cs",
+              "RelativeDocumentMoniker": "CabarlesFramework\\Class1.cs",
+              "ToolTip": "D:\\MiranteIPT102\\CabarlesIPT102\\CabarlesFramework\\Class1.cs",
+              "RelativeToolTip": "CabarlesFramework\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:56:32.225Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6415537024ed4ed0a9" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="CabarlesMaui.MainActivity, CabarlesMaui">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6415537024ed4ed0a9" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="CabarlesMaui.MainApplication, CabarlesMaui" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="CabarlesMaui" module-name="CabarlesMaui.dll">
+    <type assembly-qualified-name="CabarlesMaui.MainActivity, CabarlesMaui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="cabarlesmaui.MainActivity" java-key="crc6415537024ed4ed0a9.MainActivity" managed-key="CabarlesMaui.MainActivity" partial-assembly-qualified-name="CabarlesMaui.MainActivity, CabarlesMaui" />
+    <type assembly-qualified-name="CabarlesMaui.MainApplication, CabarlesMaui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="cabarlesmaui.MainApplication" java-key="crc6415537024ed4ed0a9.MainApplication" managed-key="CabarlesMaui.MainApplication" partial-assembly-qualified-name="CabarlesMaui.MainApplication, CabarlesMaui" />
+  </acw-types>
+</api>

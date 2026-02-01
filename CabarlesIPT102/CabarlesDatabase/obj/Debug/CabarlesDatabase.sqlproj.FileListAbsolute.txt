@@ -1,0 +1,6 @@
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\bin\Debug\CabarlesDatabase.dacpac
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\bin\Debug\CabarlesDatabase.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\bin\Debug\CabarlesDatabase.pdb
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\obj\Debug\CabarlesDatabase.sqlproj.AssemblyReference.cache
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\obj\Debug\CabarlesDatabase.dll
+D:\MiranteIPT102\CabarlesIPT102\CabarlesDatabase\obj\Debug\CabarlesDatabase.pdb
